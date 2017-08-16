@@ -1,4 +1,4 @@
-# multiAgents
+# multiagents
 
 Class Project:Implement Q-learning, MDP, reinforcement Learning.
 
